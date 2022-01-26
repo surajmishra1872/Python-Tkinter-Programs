@@ -1,0 +1,4 @@
+('suraj', '9170832051', 'male', '12435467', 'cash', 1)
+ ('suraj', '9170832051', '12345', '12345', 'online', 1)
+ ('mb', 'jnkjkjhkj', 'njkk', 'kuhkj', 'kjhkj', 1)
+ 
